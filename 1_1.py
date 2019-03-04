@@ -1,4 +1,4 @@
-n = int(input('Enter a number'))
+n = int(input('Enter a number : '))
 
 
 def fact(x):
